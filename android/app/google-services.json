@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62069708973",
+    "project_id": "thesocial-8e197",
+    "storage_bucket": "thesocial-8e197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62069708973:android:b57a80867c498c44444e24",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62069708973-f67trk4hjklluar1m71g3j5vfnahvqtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFjpd6bisSF97VK-PEusvd3oftGHe2r0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62069708973-f67trk4hjklluar1m71g3j5vfnahvqtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
